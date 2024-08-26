@@ -1,14 +1,14 @@
-<h2 align="center">Hi  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">  I am Arjun Sampathkumar. I 💙 Pentesting</h2>
+<h3 align="center">Hi  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">  I am Arjun Sampathkumar. I 💙 Pentesting</h3>
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-I'm Arjun S, a passionate cybersecurity researcher, founder of [Hacklido](https://hacklido.com), and a top voice in the cybersecurity community. I'm based in Chennai, India, and my work revolves around cybersecurity, pentesting, and educating others about the latest in the security field.
+A passionate cybersecurity researcher, founder of [Hacklido](https://hacklido.com). I'm based in Chennai, India, and my work revolves around cybersecurity, pentesting, and educating others about the latest in the security field.
 
-[![Twitter Badge](https://img.shields.io/badge/-@admiralarjun-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/admiralarjun)  [![LinkedIn Badge](https://img.shields.io/badge/-admiralarjun-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/admiralarjun)  [![GitHub Badge](https://img.shields.io/badge/-admiralarjun-333?style=flat&logo=GitHub&logoColor=white)](https://github.com/admiralarjun)  [![Telegram Badge](https://img.shields.io/badge/-@admiralarjun-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/admiralarjun)
+[![Twitter Badge](https://img.shields.io/badge/-@admiralarjun-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/admiralarjun)  [![LinkedIn Badge](https://img.shields.io/badge/-admiralarjun-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/admiralarjun)  [![Telegram Badge](https://img.shields.io/badge/-@admiralarjun-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/admiralarjun)
 
 ---
 
-## 🧑‍🏫 Experience
+### 🧑‍🏫 Experience
 
 - **VAPT Intern** - WhizzC Pvt Ltd | Chennai, India - Onsite (Aug 2024 - Present)
 - **Product Security Intern - Part-time** | TogetherEd, USA - Remote (Dec 2023 - May 2024)
@@ -17,6 +17,6 @@ I'm Arjun S, a passionate cybersecurity researcher, founder of [Hacklido](https:
 
 ---
 
-## 📰 Newsletter
+### 📰 Newsletter
 
 Subscribe to my cybersecurity newsletter on [Hacklido Substack](https://hacklido.substack.com/).
