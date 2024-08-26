@@ -1,12 +1,18 @@
-# Hi there, I'm Arjun S! 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Arjun S </h1>
 
-![Profile Banner](./assets/images/Profesional%20Profile%20Colored%20With_BG.png)
+<p align="center" width="150px"> I am an Pentester</p>
+
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Badmiralarjun04%7D/count.svg" alt="visitor badge"/></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=admiralarjun&theme=darkhub">
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm Arjun S, a passionate cybersecurity professional, founder of [Hacklido](https://hacklido.com), and a top voice in the cybersecurity community. I'm based in Chennai, India, and my work revolves around cybersecurity, pentesting, and educating others about the latest in the security field.
+I'm Arjun S, a passionate cybersecurity researcher, founder of [Hacklido](https://hacklido.com), and a top voice in the cybersecurity community. I'm based in Chennai, India, and my work revolves around cybersecurity, pentesting, and educating others about the latest in the security field.
 
 - 🌍 [Website](https://arjun.guru)
 - 🐦 [Twitter](https://twitter.com/admiralarjun)
@@ -16,18 +22,9 @@ I'm Arjun S, a passionate cybersecurity professional, founder of [Hacklido](http
 
 ---
 
-## 🚀 Skills & Expertise
-
-- **Penetration Testing:** Web App, Network, Host, AD, Cloud (Azure/AWS), API, Mobile App, Infrastructure, Code Review, DAST, SAST
-- **Web Server Administration:** (Apache/Nginx) Hosting, Deployment, Maintenance, Firewall Rules Writing (WAF)
-- **Tooling & Automation:** Burp Suite, SQLMap, Metasploit, Nessus, Nmap, Hashcat, OWASP Zap, Wireshark, Snort, OpenVAS, Scripting with Bash & Python
-- **Governance, Risk, Compliance:** OWASP, OS Internals, AD, Cybersecurity Frameworks (NIST, ISO 27001), GDPR, PCI DSS, HIPAA, SOC2, Regulatory (DMCA, FISMA)
-
----
-
 ## 🧑‍🏫 Experience
 
-- **VAPT Intern - WhizzC Pvt Ltd | Chennai, India - Onsite (Aug 2024 - Present)
+- **VAPT Intern** - WhizzC Pvt Ltd | Chennai, India - Onsite (Aug 2024 - Present)
 - **Product Security Intern - Part-time** | TogetherEd, USA - Remote (Dec 2023 - May 2024)
 - **Student Peer Mentor & Teaching Assistant** | KL University, India (Apr 2022 - Apr 2024)
 - **Founder & CEO** | [Hacklido](https://hacklido.com), Chennai, India (Feb 2021 - Present)
