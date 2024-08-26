@@ -1,5 +1,4 @@
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Arjun S. A Pentester.</h1>
-
+<h2 align="center">Hi<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Arjun S. A Pentester.</h2>
 
 ---
 
@@ -27,14 +26,6 @@ I'm Arjun S, a passionate cybersecurity researcher, founder of [Hacklido](https:
 ## 📰 Newsletter
 
 Subscribe to my cybersecurity newsletter on [Hacklido Substack](https://hacklido.substack.com/).
-
----
-
-## 📈 GitHub Stats
-
-![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=admiralarjun&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=admiralarjun&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
