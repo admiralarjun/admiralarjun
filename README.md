@@ -1,6 +1,4 @@
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Arjun Sampathkumar. I 💙 Pentesting</h2>
-
----
+<h2 align="center">Hi  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">  I am Arjun Sampathkumar. I 💙 Pentesting</h2>
 
 ## 👨‍💻 About Me
 
