@@ -4,7 +4,7 @@
 
 I'm Arjun S, a passionate cybersecurity researcher, founder of [Hacklido](https://hacklido.com), and a top voice in the cybersecurity community. I'm based in Chennai, India, and my work revolves around cybersecurity, pentesting, and educating others about the latest in the security field.
 
-[![Twitter Badge](https://img.shields.io/badge/-@admiralarjun-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/admiralarjun) | [![LinkedIn Badge](https://img.shields.io/badge/-admiralarjun-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/admiralarjun) | [![GitHub Badge](https://img.shields.io/badge/-admiralarjun-333?style=flat&logo=GitHub&logoColor=white)](https://github.com/admiralarjun) | [![Telegram Badge](https://img.shields.io/badge/-@admiralarjun-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/admiralarjun)
+[![Twitter Badge](https://img.shields.io/badge/-@admiralarjun-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/admiralarjun)  [![LinkedIn Badge](https://img.shields.io/badge/-admiralarjun-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/admiralarjun)  [![GitHub Badge](https://img.shields.io/badge/-admiralarjun-333?style=flat&logo=GitHub&logoColor=white)](https://github.com/admiralarjun)  [![Telegram Badge](https://img.shields.io/badge/-@admiralarjun-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/admiralarjun)
 
 ---
 
