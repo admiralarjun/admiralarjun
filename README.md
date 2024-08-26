@@ -1,12 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Arjun S </h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Arjun S. A Pentester.</h1>
 
-<p align="center" width="150px"> I am an Pentester</p>
-
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Badmiralarjun04%7D/count.svg" alt="visitor badge"/></p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=admiralarjun&theme=darkhub">
-</p>
 
 ---
 
@@ -62,6 +55,12 @@ Subscribe to my cybersecurity newsletter on [Hacklido Substack](https://hacklido
 
 ---
 
-Feel free to check out my repositories and get in touch if you're interested in collaborating!
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Badmiralarjun04%7D/count.svg" alt="visitor badge"/></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=admiralarjun&theme=darkhub">
+</p>
 
-[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=admiralarjun.admiralarjun)](https://github.com/admiralarjun)
+---
+
+Feel free to check out my repositories and get in touch if you're interested in collaborating!
