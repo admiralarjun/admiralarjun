@@ -11,9 +11,8 @@ A passionate cybersecurity researcher, founder of [Hacklido](https://hacklido.co
 ### 🧑‍🏫 Experience
 
 - **VAPT Intern** - WhizzC Pvt Ltd | Chennai, India - Onsite (Aug 2024 - Present)
-- **Product Security Intern - Part-time** | TogetherEd, USA - Remote (Dec 2023 - May 2024)
 - **Student Peer Mentor & Teaching Assistant** | KL University, India (Apr 2022 - Apr 2024)
-- **Founder & CEO** | [Hacklido](https://hacklido.com), Chennai, India (Feb 2021 - Present)
+- **Founder & CEO** | [Hacklido](https://hacklido.com), Chennai, India (Feb 2021)
 
 ---
 
