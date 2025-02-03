@@ -2,17 +2,9 @@
 
 ### 👨‍💻 About Me
 
-A passionate cybersecurity researcher, founder of [Hacklido](https://hacklido.com). I'm based in Chennai, India, and my work revolves around cybersecurity, pentesting, and educating others about the latest in the security field.
+A passionate cybersecurity researcher, founder of [Hacklido](https://hacklido.com). I'm based in Chennai, India, and my work revolves around cybersecurity, pentesting, and mentoring others about the latest in the security field.
 
 [![Twitter Badge](https://img.shields.io/badge/-@admiralarjun-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/admiralarjun)  [![LinkedIn Badge](https://img.shields.io/badge/-admiralarjun-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/admiralarjun)  [![Telegram Badge](https://img.shields.io/badge/-@admiralarjun-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/admiralarjun)
-
----
-
-### 🧑‍🏫 Experience
-
-- **VAPT Intern** - WhizzC Pvt Ltd | Chennai, India - Onsite (Aug 2024 - Present)
-- **Student Peer Mentor & Teaching Assistant** | KL University, India (Apr 2022 - Apr 2024)
-- **Founder & CEO** | [Hacklido](https://hacklido.com), Chennai, India (Feb 2021)
 
 ---
 
